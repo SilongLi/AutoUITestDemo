@@ -22,7 +22,6 @@ class LoginViewController: UIViewController {
         info.textColor = .red
         info.textAlignment = .center
         view.addSubview(info)
-        
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
